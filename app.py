@@ -1,2 +1,2 @@
-print "versão de produção"
+print "versão de desenvolvimento"
 
